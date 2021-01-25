@@ -1,6 +1,6 @@
 # Glassmorphism
 
-![image screen]()
+![image screen](https://user-images.githubusercontent.com/3937792/105679223-ba0df080-5f20-11eb-843c-7bb2385c6fcc.png)
 
 Iseng aja sambil nunggu online meeting dimulai.
 
